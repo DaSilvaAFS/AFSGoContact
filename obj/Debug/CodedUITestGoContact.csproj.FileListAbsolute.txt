@@ -1,0 +1,12 @@
+C:\Projetos\CodedUITestGoContact\bin\Debug\CodedUITestGoContact.dll
+C:\Projetos\CodedUITestGoContact\bin\Debug\CodedUITestGoContact.pdb
+C:\Projetos\CodedUITestGoContact\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Projetos\CodedUITestGoContact\bin\Debug\WebDriver.dll
+C:\Projetos\CodedUITestGoContact\bin\Debug\WebDriver.xml
+C:\Projetos\CodedUITestGoContact\obj\Debug\CodedUITestGoContact.csprojAssemblyReference.cache
+C:\Projetos\CodedUITestGoContact\obj\Debug\CodedUITestGoContact.Properties.Resources.resources
+C:\Projetos\CodedUITestGoContact\obj\Debug\CodedUITestGoContact.csproj.GenerateResource.cache
+C:\Projetos\CodedUITestGoContact\obj\Debug\CodedUITestGoContact.csproj.CoreCompileInputs.cache
+C:\Projetos\CodedUITestGoContact\obj\Debug\CodedUITestGoContact.csproj.CopyComplete
+C:\Projetos\CodedUITestGoContact\obj\Debug\CodedUITestGoContact.dll
+C:\Projetos\CodedUITestGoContact\obj\Debug\CodedUITestGoContact.pdb
